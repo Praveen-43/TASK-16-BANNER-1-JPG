@@ -1,2 +1,2 @@
-# TASK-16-BANNER-1-JPG
-HTML-CSS/Tasks/task-banner-1.jpg
+﻿# Day-16-Zen-Task-B
+Banner-1 task B done
